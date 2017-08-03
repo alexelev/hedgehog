@@ -1,0 +1,38 @@
+<?php
+$InstallData = array (
+  '2.5.7-pl' => 
+  array (
+    'tree' => 'Revolution',
+    'name' => 'MODX Revolution 2.5.7-pl',
+    'link' => 'https://modx.com/download/direct?id=modx-2.5.7-pl.zip',
+    'location' => 'setup/index.php',
+  ),
+  '2.5.6-pl' => 
+  array (
+    'tree' => 'Revolution',
+    'name' => 'MODX Revolution 2.5.6-pl',
+    'link' => 'https://modx.com/download/direct?id=modx-2.5.6-pl.zip',
+    'location' => 'setup/index.php',
+  ),
+  '2.5.5-pl' => 
+  array (
+    'tree' => 'Revolution',
+    'name' => 'MODX Revolution 2.5.5-pl',
+    'link' => 'https://modx.com/download/direct?id=modx-2.5.5-pl.zip',
+    'location' => 'setup/index.php',
+  ),
+  '2.5.4-pl' => 
+  array (
+    'tree' => 'Revolution',
+    'name' => 'MODX Revolution 2.5.4-pl',
+    'link' => 'https://modx.com/download/direct?id=modx-2.5.4-pl.zip',
+    'location' => 'setup/index.php',
+  ),
+  '2.5.2-pl' => 
+  array (
+    'tree' => 'Revolution',
+    'name' => 'MODX Revolution 2.5.2-pl',
+    'link' => 'https://modx.com/download/direct?id=modx-2.5.2-pl.zip',
+    'location' => 'setup/index.php',
+  ),
+);

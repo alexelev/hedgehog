@@ -1,0 +1,355 @@
+[2017-07-28 14:47:36] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/workspace
+[2017-07-28 14:48:32] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-07-28 15:01:20] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-07-28 17:54:02] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 320) Could not retrieve data to cache for resource 1
+[2017-07-30 01:44:11] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-07-30 03:31:55] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\processors\mgr\item\ajaxupload.php : 75) [Gallery] Album Type: 1
+[2017-07-30 03:31:55] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\processors\mgr\item\ajaxupload.php : 75) [Gallery] Album Type: 1
+[2017-07-30 03:31:55] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\model\gallery\galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2017-07-30 03:31:56] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\processors\mgr\item\ajaxupload.php : 75) [Gallery] Album Type: 1
+[2017-07-30 03:31:56] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\processors\mgr\item\ajaxupload.php : 75) [Gallery] Album Type: 1
+[2017-07-30 03:31:56] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\model\gallery\galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2017-07-30 03:31:56] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\model\gallery\galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2017-07-30 03:31:56] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\model\gallery\galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2017-07-30 03:31:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\processors\mgr\item\ajaxupload.php : 75) [Gallery] Album Type: 1
+[2017-07-30 03:31:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\processors\mgr\item\ajaxupload.php : 75) [Gallery] Album Type: 1
+[2017-07-30 03:31:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\processors\mgr\item\ajaxupload.php : 75) [Gallery] Album Type: 1
+[2017-07-30 03:31:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\model\gallery\galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2017-07-30 03:31:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\model\gallery\galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2017-07-30 03:31:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\model\gallery\galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2017-07-30 03:31:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\processors\mgr\item\ajaxupload.php : 75) [Gallery] Album Type: 1
+[2017-07-30 03:31:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\processors\mgr\item\ajaxupload.php : 75) [Gallery] Album Type: 1
+[2017-07-30 03:31:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\model\gallery\galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2017-07-30 03:31:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\gallery\model\gallery\galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2017-07-31 22:36:07] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-07-31 23:38:14] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/120x90/10.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/120x90/10.jpg
+[2017-07-31 23:38:14] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/360x270/10.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/360x270/10.jpg
+[2017-07-31 23:38:14] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/120x90/9.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/120x90/9.jpg
+[2017-07-31 23:38:14] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/360x270/9.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/360x270/9.jpg
+[2017-07-31 23:38:14] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/120x90/1.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/120x90/1.jpg
+[2017-07-31 23:38:14] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/360x270/1.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/360x270/1.jpg
+[2017-07-31 23:38:15] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/120x90/2.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/120x90/2.jpg
+[2017-07-31 23:38:15] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/360x270/2.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/360x270/2.jpg
+[2017-07-31 23:38:15] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/120x90/3.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/120x90/3.jpg
+[2017-07-31 23:38:15] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/360x270/3.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/360x270/3.jpg
+[2017-07-31 23:38:15] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/120x90/4.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/120x90/4.jpg
+[2017-07-31 23:38:15] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/360x270/4.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/360x270/4.jpg
+[2017-07-31 23:38:15] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/120x90/5.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/120x90/5.jpg
+[2017-07-31 23:38:15] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/360x270/5.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/360x270/5.jpg
+[2017-07-31 23:38:15] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/120x90/6.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/120x90/6.jpg
+[2017-07-31 23:38:15] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/360x270/6.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/360x270/6.jpg
+[2017-07-31 23:38:16] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/120x90/7.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/120x90/7.jpg
+[2017-07-31 23:38:16] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/360x270/7.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/360x270/7.jpg
+[2017-07-31 23:38:16] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/120x90/8.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/120x90/8.jpg
+[2017-07-31 23:38:16] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/360x270/8.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/360x270/8.jpg
+[2017-07-31 23:38:16] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/120x90/11.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/120x90/11.jpg
+[2017-07-31 23:38:16] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "7/360x270/11.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/7/360x270/11.jpg
+[2017-07-31 23:38:50] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modx.class.php : 991) `undefined` is not a valid integer and may not be passed to makeUrl()
+[2017-07-31 23:39:28] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modx.class.php : 991) `undefined` is not a valid integer and may not be passed to makeUrl()
+[2017-08-01 20:10:28] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\xpdo.class.php : 503) Path specified for package gallery is not a valid or accessible directory: E:/OSPanel/domains/hedgehog/core/components/gallery/model/
+[2017-08-01 20:10:29] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\xpdo.class.php : 503) Path specified for package gallery is not a valid or accessible directory: E:/OSPanel/domains/hedgehog/core/components/gallery/model/
+[2017-08-01 20:10:30] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\xpdo.class.php : 503) Path specified for package gallery is not a valid or accessible directory: E:/OSPanel/domains/hedgehog/core/components/gallery/model/
+[2017-08-01 20:10:31] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-08-01 20:10:31] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-08-01 20:10:31] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-08-01 20:12:12] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/minishop2/properties
+[2017-08-01 20:12:12] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/minishop2/properties
+[2017-08-01 20:12:12] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/minishop2/properties
+[2017-08-01 20:12:12] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/minishop2/properties
+[2017-08-01 20:59:39] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-01 20:59:39] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-01 21:00:22] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-01 21:02:46] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-01 21:02:46] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-01 21:28:50] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-01 23:55:24] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/120x90/7.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/120x90/7.jpg
+[2017-08-01 23:55:24] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/360x270/7.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/360x270/7.jpg
+[2017-08-01 23:55:24] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/120x90/3.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/120x90/3.jpg
+[2017-08-01 23:55:24] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/360x270/3.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/360x270/3.jpg
+[2017-08-01 23:55:25] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/120x90/1.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/120x90/1.jpg
+[2017-08-01 23:55:25] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/360x270/1.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/360x270/1.jpg
+[2017-08-01 23:55:25] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/120x90/2.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/120x90/2.jpg
+[2017-08-01 23:55:25] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/360x270/2.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/360x270/2.jpg
+[2017-08-01 23:55:25] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/120x90/4.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/120x90/4.jpg
+[2017-08-01 23:55:25] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/360x270/4.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/360x270/4.jpg
+[2017-08-01 23:55:25] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/120x90/5.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/120x90/5.jpg
+[2017-08-01 23:55:25] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/360x270/5.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/360x270/5.jpg
+[2017-08-01 23:55:25] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/120x90/6.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/120x90/6.jpg
+[2017-08-01 23:55:26] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/360x270/6.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/360x270/6.jpg
+[2017-08-01 23:55:26] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/120x90/8.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/120x90/8.jpg
+[2017-08-01 23:55:26] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/360x270/8.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/360x270/8.jpg
+[2017-08-01 23:55:26] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/120x90/9.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/120x90/9.jpg
+[2017-08-01 23:55:26] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/360x270/9.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/360x270/9.jpg
+[2017-08-01 23:55:26] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/120x90/10.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/120x90/10.jpg
+[2017-08-01 23:55:26] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/360x270/10.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/360x270/10.jpg
+[2017-08-01 23:55:26] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/120x90/11.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/120x90/11.jpg
+[2017-08-01 23:55:26] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minishop2\model\minishop2\msproductfile.class.php : 220) Could not remove file at "10/360x270/11.jpg": file_folder_err_ns: E:/OSPanel/domains/hedgehog/assets/images/products/10/360x270/11.jpg
+[2017-08-02 00:09:10] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 00:11:20] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 00:11:20] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 00:16:29] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/file
+[2017-08-02 00:18:32] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 00:53:05] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-08-02 00:53:05] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-08-02 00:53:05] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-08-02 00:53:05] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/lexicon
+[2017-08-02 00:53:16] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 00:53:16] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 00:53:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 00:53:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 00:55:51] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 00:55:51] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 00:56:19] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 00:56:32] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 00:56:32] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 00:56:55] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 00:56:55] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 00:58:54] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 00:58:54] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 01:03:18] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:12:01] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:12:01] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 01:13:59] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-08-02 01:25:44] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:34:33] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:34:33] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 01:40:08] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:40:19] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:40:19] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 01:41:44] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:42:09] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:42:11] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:42:48] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:43:50] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:43:50] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 01:46:58] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-08-02 01:47:09] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:57:48] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:58:06] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 01:59:19] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 02:00:51] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 02:03:51] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\om\xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): MySQL server has gone away
+[2017-08-02 02:03:51] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\om\xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): Error reading result set's header
+[2017-08-02 02:03:51] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\om\xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2017-08-02 02:03:51] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('9l9v7l0a9sd89h909n0tudncj0', 1501628631, 'modx.user.contextTokens|a:1:{s:3:\"mgr\";i:1;}modx.user.0.resourceGroups|a:1:{s:3:\"web\";a:0:{}}modx.user.0.attributes|a:1:{s:3:\"web\";a:5:{s:16:\"modAccessContext\";a:1:{s:3:\"web\";a:1:{i:0;a:3:{s:9:\"principal\";i:0;s:9:\"authority\";s:1:\"0\";s:6:\"policy\";a:1:{s:4:\"load\";b:1;}}}}s:22:\"modAccessResourceGroup\";a:0:{}s:17:\"modAccessCategory\";a:0:{}s:28:\"sources.modAccessMediaSource\";a:0:{}s:18:\"modAccessNamespace\";a:0:{}}}modx.mgr.user.token|s:52:\"modx597b21ada35bd7.27093975_159806f3b8b8621.84750601\";modx.mgr.session.cookie.lifetime|i:0;modx.mgr.user.config|a:0:{}modx.user.1.userGroupNames|a:1:{i:0;s:13:\"Administrator\";}newResourceTokens|a:43:{i:0;s:23:\"5980a94ec99f94.62463148\";i:1;s:23:\"5980a959aa47f6.45755859\";i:2;s:23:\"5980a95d2b9ee5.23408018\";i:3;s:23:\"5980a965213bd7.35327811\";i:4;s:23:\"5980b6a6c2e175.21881782\";i:5;s:23:\"5980b6aaa4e7d6.64573007\";i:6;s:23:\"5980b81fbe9f95.31604290\";i:7;s:23:\"5980ba5d33a888.42816344\";i:8;s:23:\"5980bac32574e4.13213096\";i:9;s:23:\"5980bac6a4b408.34043674\";i:10;s:23:\"5980bacb819d64.37526375\";i:11;s:23:\"5980bae8d92ed8.40720579\";i:12;s:23:\"5980bbe46ca293.09953686\";i:13;s:23:\"5980bc2b2d69f7.46089017\";i:14;s:23:\"5980bc40ba9590.15922100\";i:15;s:23:\"5980bc49e72579.43542639\";i:16;s:23:\"5980bee58aa988.96599404\";i:17;s:23:\"5980bef2b0ee97.66171029\";i:18;s:23:\"5980bf12ecf3d1.98019000\";i:19;s:23:\"5980bf17b78d72.65123914\";i:20;s:23:\"5980bf300e7550.17610702\";i:21;s:23:\"5980bf655aa468.72204560\";i:22;s:23:\"5980bf6a286a84.06889177\";i:23;s:23:\"5980bf7a91dec8.91999210\";i:24;s:23:\"5980bf81660523.45188337\";i:25;s:23:\"5980bf8f3b0016.05167424\";i:26;s:23:\"5980c0129c0cd0.43368908\";i:27;s:23:\"5980c017551220.78306565\";i:28;s:23:\"5980c01af21aa1.06063816\";i:29;s:23:\"5980c19f3a5117.32176551\";i:30;s:23:\"5980ea4549fd25.43894077\";i:31;s:23:\"5980ea6082c3f8.39735525\";i:32;s:23:\"5980ea71dece11.25766726\";i:33;s:23:\"5980ea9133daf4.40768578\";i:34;s:23:\"5980eb5f35c164.89629786\";i:35;s:23:\"5980eb6f73fe80.80779212\";i:36;s:23:\"5980eb910466f5.02714058\";i:37;s:23:\"5980ebc9b7a945.87931725\";i:38;s:23:\"5980f9fd698616.54351103\";i:39;s:23:\"5980fa02539ea1.88455866\";i:40;s:23:\"5980fa521d11c8.30974538\";i:41;s:23:\"5980fffe330e34.99406033\";i:42;s:23:\"598101e066b602.79278530\";}modx.user.1.userGroups|a:1:{i:0;i:1;}minishop2|a:2:{s:4:\"cart\";a:2:{s:32:\"356a5cebe05176b772f0fd20d957d439\";a:6:{s:2:\"id\";s:2:\"11\";s:5:\"price\";d:1200;s:6:\"weight\";d:300;s:5:\"count\";i:1;s:7:\"options\";s:2:\"[]\";s:3:\"ctx\";s:3:\"web\";}s:32:\"a21ccbe72ae5976af59cb3f52367376e\";a:6:{s:2:\"id\";s:2:\"12\";s:5:\"price\";d:1000;s:6:\"weight\";d:350;s:5:\"count\";i:1;s:7:\"options\";s:2:\"[]\";s:3:\"ctx\";s:3:\"web\";}}s:5:\"order\";a:0:{}}')
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2017-08-02 02:05:04] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 02:05:47] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 02:05:47] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 02:07:28] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 02:07:28] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 02:08:04] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\om\xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): MySQL server has gone away
+[2017-08-02 02:08:04] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\om\xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): Error reading result set's header
+[2017-08-02 02:08:04] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\om\xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2017-08-02 02:08:04] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('9l9v7l0a9sd89h909n0tudncj0', 1501628884, 'modx.user.contextTokens|a:1:{s:3:\"mgr\";i:1;}modx.user.0.resourceGroups|a:1:{s:3:\"web\";a:0:{}}modx.user.0.attributes|a:1:{s:3:\"web\";a:5:{s:16:\"modAccessContext\";a:1:{s:3:\"web\";a:1:{i:0;a:3:{s:9:\"principal\";i:0;s:9:\"authority\";s:1:\"0\";s:6:\"policy\";a:1:{s:4:\"load\";b:1;}}}}s:22:\"modAccessResourceGroup\";a:0:{}s:17:\"modAccessCategory\";a:0:{}s:28:\"sources.modAccessMediaSource\";a:0:{}s:18:\"modAccessNamespace\";a:0:{}}}modx.mgr.user.token|s:52:\"modx597b21ada35bd7.27093975_159806f3b8b8621.84750601\";modx.mgr.session.cookie.lifetime|i:0;modx.mgr.user.config|a:0:{}modx.user.1.userGroupNames|a:1:{i:0;s:13:\"Administrator\";}newResourceTokens|a:43:{i:0;s:23:\"5980a94ec99f94.62463148\";i:1;s:23:\"5980a959aa47f6.45755859\";i:2;s:23:\"5980a95d2b9ee5.23408018\";i:3;s:23:\"5980a965213bd7.35327811\";i:4;s:23:\"5980b6a6c2e175.21881782\";i:5;s:23:\"5980b6aaa4e7d6.64573007\";i:6;s:23:\"5980b81fbe9f95.31604290\";i:7;s:23:\"5980ba5d33a888.42816344\";i:8;s:23:\"5980bac32574e4.13213096\";i:9;s:23:\"5980bac6a4b408.34043674\";i:10;s:23:\"5980bacb819d64.37526375\";i:11;s:23:\"5980bae8d92ed8.40720579\";i:12;s:23:\"5980bbe46ca293.09953686\";i:13;s:23:\"5980bc2b2d69f7.46089017\";i:14;s:23:\"5980bc40ba9590.15922100\";i:15;s:23:\"5980bc49e72579.43542639\";i:16;s:23:\"5980bee58aa988.96599404\";i:17;s:23:\"5980bef2b0ee97.66171029\";i:18;s:23:\"5980bf12ecf3d1.98019000\";i:19;s:23:\"5980bf17b78d72.65123914\";i:20;s:23:\"5980bf300e7550.17610702\";i:21;s:23:\"5980bf655aa468.72204560\";i:22;s:23:\"5980bf6a286a84.06889177\";i:23;s:23:\"5980bf7a91dec8.91999210\";i:24;s:23:\"5980bf81660523.45188337\";i:25;s:23:\"5980bf8f3b0016.05167424\";i:26;s:23:\"5980c0129c0cd0.43368908\";i:27;s:23:\"5980c017551220.78306565\";i:28;s:23:\"5980c01af21aa1.06063816\";i:29;s:23:\"5980c19f3a5117.32176551\";i:30;s:23:\"5980ea4549fd25.43894077\";i:31;s:23:\"5980ea6082c3f8.39735525\";i:32;s:23:\"5980ea71dece11.25766726\";i:33;s:23:\"5980ea9133daf4.40768578\";i:34;s:23:\"5980eb5f35c164.89629786\";i:35;s:23:\"5980eb6f73fe80.80779212\";i:36;s:23:\"5980eb910466f5.02714058\";i:37;s:23:\"5980ebc9b7a945.87931725\";i:38;s:23:\"5980f9fd698616.54351103\";i:39;s:23:\"5980fa02539ea1.88455866\";i:40;s:23:\"5980fa521d11c8.30974538\";i:41;s:23:\"5980fffe330e34.99406033\";i:42;s:23:\"598101e066b602.79278530\";}modx.user.1.userGroups|a:1:{i:0;i:1;}minishop2|a:2:{s:4:\"cart\";a:2:{s:32:\"356a5cebe05176b772f0fd20d957d439\";a:6:{s:2:\"id\";s:2:\"11\";s:5:\"price\";d:1200;s:6:\"weight\";d:300;s:5:\"count\";i:1;s:7:\"options\";s:2:\"[]\";s:3:\"ctx\";s:3:\"web\";}s:32:\"a21ccbe72ae5976af59cb3f52367376e\";a:6:{s:2:\"id\";s:2:\"12\";s:5:\"price\";d:1000;s:6:\"weight\";d:350;s:5:\"count\";i:1;s:7:\"options\";s:2:\"[]\";s:3:\"ctx\";s:3:\"web\";}}s:5:\"order\";a:0:{}}')
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2017-08-02 02:08:46] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\om\xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): MySQL server has gone away
+[2017-08-02 02:08:46] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\om\xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): Error reading result set's header
+[2017-08-02 02:08:46] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\om\xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2017-08-02 02:08:46] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('9l9v7l0a9sd89h909n0tudncj0', 1501628926, 'modx.user.contextTokens|a:1:{s:3:\"mgr\";i:1;}modx.user.0.resourceGroups|a:1:{s:3:\"web\";a:0:{}}modx.user.0.attributes|a:1:{s:3:\"web\";a:5:{s:16:\"modAccessContext\";a:1:{s:3:\"web\";a:1:{i:0;a:3:{s:9:\"principal\";i:0;s:9:\"authority\";s:1:\"0\";s:6:\"policy\";a:1:{s:4:\"load\";b:1;}}}}s:22:\"modAccessResourceGroup\";a:0:{}s:17:\"modAccessCategory\";a:0:{}s:28:\"sources.modAccessMediaSource\";a:0:{}s:18:\"modAccessNamespace\";a:0:{}}}modx.mgr.user.token|s:52:\"modx597b21ada35bd7.27093975_159806f3b8b8621.84750601\";modx.mgr.session.cookie.lifetime|i:0;modx.mgr.user.config|a:0:{}modx.user.1.userGroupNames|a:1:{i:0;s:13:\"Administrator\";}newResourceTokens|a:43:{i:0;s:23:\"5980a94ec99f94.62463148\";i:1;s:23:\"5980a959aa47f6.45755859\";i:2;s:23:\"5980a95d2b9ee5.23408018\";i:3;s:23:\"5980a965213bd7.35327811\";i:4;s:23:\"5980b6a6c2e175.21881782\";i:5;s:23:\"5980b6aaa4e7d6.64573007\";i:6;s:23:\"5980b81fbe9f95.31604290\";i:7;s:23:\"5980ba5d33a888.42816344\";i:8;s:23:\"5980bac32574e4.13213096\";i:9;s:23:\"5980bac6a4b408.34043674\";i:10;s:23:\"5980bacb819d64.37526375\";i:11;s:23:\"5980bae8d92ed8.40720579\";i:12;s:23:\"5980bbe46ca293.09953686\";i:13;s:23:\"5980bc2b2d69f7.46089017\";i:14;s:23:\"5980bc40ba9590.15922100\";i:15;s:23:\"5980bc49e72579.43542639\";i:16;s:23:\"5980bee58aa988.96599404\";i:17;s:23:\"5980bef2b0ee97.66171029\";i:18;s:23:\"5980bf12ecf3d1.98019000\";i:19;s:23:\"5980bf17b78d72.65123914\";i:20;s:23:\"5980bf300e7550.17610702\";i:21;s:23:\"5980bf655aa468.72204560\";i:22;s:23:\"5980bf6a286a84.06889177\";i:23;s:23:\"5980bf7a91dec8.91999210\";i:24;s:23:\"5980bf81660523.45188337\";i:25;s:23:\"5980bf8f3b0016.05167424\";i:26;s:23:\"5980c0129c0cd0.43368908\";i:27;s:23:\"5980c017551220.78306565\";i:28;s:23:\"5980c01af21aa1.06063816\";i:29;s:23:\"5980c19f3a5117.32176551\";i:30;s:23:\"5980ea4549fd25.43894077\";i:31;s:23:\"5980ea6082c3f8.39735525\";i:32;s:23:\"5980ea71dece11.25766726\";i:33;s:23:\"5980ea9133daf4.40768578\";i:34;s:23:\"5980eb5f35c164.89629786\";i:35;s:23:\"5980eb6f73fe80.80779212\";i:36;s:23:\"5980eb910466f5.02714058\";i:37;s:23:\"5980ebc9b7a945.87931725\";i:38;s:23:\"5980f9fd698616.54351103\";i:39;s:23:\"5980fa02539ea1.88455866\";i:40;s:23:\"5980fa521d11c8.30974538\";i:41;s:23:\"5980fffe330e34.99406033\";i:42;s:23:\"598101e066b602.79278530\";}modx.user.1.userGroups|a:1:{i:0;i:1;}minishop2|a:2:{s:4:\"cart\";a:2:{s:32:\"356a5cebe05176b772f0fd20d957d439\";a:6:{s:2:\"id\";s:2:\"11\";s:5:\"price\";d:1200;s:6:\"weight\";d:300;s:5:\"count\";i:1;s:7:\"options\";s:2:\"[]\";s:3:\"ctx\";s:3:\"web\";}s:32:\"a21ccbe72ae5976af59cb3f52367376e\";a:6:{s:2:\"id\";s:2:\"12\";s:5:\"price\";d:1000;s:6:\"weight\";d:350;s:5:\"count\";i:1;s:7:\"options\";s:2:\"[]\";s:3:\"ctx\";s:3:\"web\";}}s:5:\"order\";a:0:{}}')
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2017-08-02 02:20:27] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-08-02 02:20:39] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 02:25:36] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 02:25:38] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 02:56:58] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 02:57:45] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 02:58:13] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 03:00:34] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 03:00:43] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 03:00:43] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 03:01:39] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-08-02 03:01:39] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-08-02 03:01:39] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/propertyset
+[2017-08-02 03:05:16] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 03:05:32] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 03:06:58] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 03:08:10] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 03:08:53] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 03:09:14] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 03:09:26] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 03:09:49] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 03:12:10] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:02:48] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:02:50] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:04:56] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:42:03] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:42:03] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 11:43:14] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:43:26] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:43:41] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:49:28] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:55:52] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:57:40] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:57:40] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 11:59:43] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:59:58] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 11:59:58] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 12:00:28] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:00:28] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 12:06:23] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:06:43] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:06:43] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 12:06:57] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:07:43] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:08:08] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:08:36] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:08:45] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:08:45] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 12:08:59] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:08:59] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 12:09:24] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:09:24] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 12:10:06] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:11:10] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:14:14] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:14:31] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:15:35] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:15:51] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:16:29] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:18:02] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:25:37] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:25:37] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 12:25:51] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:26:07] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:26:07] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 12:26:35] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:26:35] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 12:26:59] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:26:59] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 12:31:53] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:31:53] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 12:36:11] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:36:11] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 12:38:01] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:45:34] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 12:45:34] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 13:00:36] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/workspace
+[2017-08-02 13:01:00] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: E:/OSPanel/domains/hedgehog/core/components/minishop2/model/
+[2017-08-02 13:01:01] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: E:/OSPanel/domains/hedgehog/core/components/minishop2/model/
+[2017-08-02 13:01:02] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: E:/OSPanel/domains/hedgehog/core/components/minishop2/model/
+[2017-08-02 13:01:03] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: E:/OSPanel/domains/hedgehog/core/components/minishop2/model/
+[2017-08-02 13:01:04] (ERROR @ E:\OSPanel\domains\hedgehog\core\xpdo\xpdo.class.php : 503) Path specified for package minishop2 is not a valid or accessible directory: E:/OSPanel/domains/hedgehog/core/components/minishop2/model/
+[2017-08-02 13:01:29] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-08-02 13:01:29] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/workspace
+[2017-08-02 13:01:58] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-08-02 13:01:58] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-08-02 13:01:58] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-08-02 13:02:17] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2017-08-02 13:02:17] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2017-08-02 13:07:39] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 14:45:59] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 14:47:52] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 14:49:22] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 14:50:04] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 14:50:04] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-02 14:51:14] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 15:00:43] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 15:01:22] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 15:11:51] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 15:13:24] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-02 15:15:22] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 00:58:53] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 00:59:51] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 01:07:12] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 01:44:23] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 01:46:01] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 01:52:16] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 01:52:35] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 02:08:08] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 02:08:59] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 02:09:19] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 02:09:37] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 02:09:55] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 02:09:55] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-03 02:10:53] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 02:49:36] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 02:57:18] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 03:01:54] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 53
+[2017-08-03 03:01:54] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 1
+[2017-08-03 03:01:54] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 53
+[2017-08-03 03:01:54] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 1
+[2017-08-03 03:02:37] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 63
+[2017-08-03 03:02:37] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 63
+[2017-08-03 03:03:23] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 63
+[2017-08-03 03:03:24] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 63
+[2017-08-03 03:04:03] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 63
+[2017-08-03 03:04:03] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 63
+[2017-08-03 03:04:10] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 63
+[2017-08-03 03:04:10] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 63
+[2017-08-03 03:04:17] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 03:04:17] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 03:04:58] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 63
+[2017-08-03 03:04:58] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 63
+[2017-08-03 03:05:08] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 03:05:08] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 03:05:36] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 03:05:36] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 03:06:23] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 03:06:23] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 215) [MinifyX] Could not save cache file E:/OSPanel/domains/hedgehog/assets/components/minifyx/cache/scripts_da39a3ee5e.min.js
+[2017-08-03 03:06:52] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 03:06:52] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 03:07:29] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 03:07:29] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 03:09:12] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 03:09:12] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 13:33:29] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 13:33:30] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 13:33:32] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 13:33:32] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 13:34:12] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-08-03 13:34:12] (ERROR @ E:\OSPanel\domains\hedgehog\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-08-03 13:34:41] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 13:34:41] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 14:13:38] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 14:13:39] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 14:15:45] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
+[2017-08-03 14:16:01] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 14:16:02] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 14:17:25] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 14:17:25] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 14:20:02] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 14:20:02] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\pdotools\model\pdotools\pdotools.class.php : 942) Unclosed tag in line 61
+[2017-08-03 14:20:14] (ERROR @ E:\OSPanel\domains\hedgehog\core\components\minifyx\model\minifyx\minifyx.class.php : 142) [MinifyX] File does not exist: /assets/build/css/index.js
