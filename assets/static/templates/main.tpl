@@ -9,10 +9,9 @@
     
   </header>
   <div class="container">
-    [[ *content ]]
 
     [[!msProducts?
-      &tpl=`categoryTpl`
+       &tpl=`categoryTpl`
     ]]
 
   </div>

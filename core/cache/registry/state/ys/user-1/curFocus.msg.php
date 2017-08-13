@@ -1,2 +1,2 @@
 <?php
-return 'modx-resource-birthdate';
+return 'modx-resource-alias';

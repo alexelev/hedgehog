@@ -4,6 +4,8 @@
 <base href="[[ ++site_url ]]" />
 <title>[[ !pdoTitle? &outputSeparator=`|` &cache=`1` ]] | [[ ++site_name ]]</title>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 
 [[MinifyX?
     &minifyCss=`1`
@@ -14,7 +16,7 @@
     &minifyJs=`1`
     &registerJs=`1`
     &jsSources=`
-      /assets/build/css/index.js
+      /assets/build/js/index.js
     `
   ]]
 

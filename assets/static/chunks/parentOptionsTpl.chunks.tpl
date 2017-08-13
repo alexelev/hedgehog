@@ -1,0 +1,1 @@
+<div class="col-md-6 text-center"><a href="[[ ~2 ]]#[[ +alias ]]"><h4>[[ +pagetitle ]]</h4></a></div>

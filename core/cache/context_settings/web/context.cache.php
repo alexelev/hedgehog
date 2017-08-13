@@ -8,10 +8,12 @@
     'bootstrap.main' => 4,
     'bootstrap.inner' => 5,
     'collection/' => 2,
-    'contacts' => 3,
+    'order' => 3,
     'smally' => 11,
     'fiona' => 12,
-    'ашер' => 13,
+    'asher' => 13,
+    'aglasha' => 14,
+    'bouy' => 15,
   ),
   'resourceMap' => 
   array (
@@ -31,6 +33,8 @@
     2 => 
     array (
       0 => 13,
+      1 => 14,
+      2 => 15,
     ),
   ),
   'webLinkMap' => 

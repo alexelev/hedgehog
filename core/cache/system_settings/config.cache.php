@@ -332,7 +332,7 @@
   'pdofetch_class_path' => 'E:/OSPanel/domains/hedgehog/core/components/pdotools/model/',
   'pdotools_fenom_default' => '1',
   'pdotools_fenom_parser' => '',
-  'pdotools_fenom_php' => '',
+  'pdotools_fenom_php' => '1',
   'pdotools_fenom_modx' => '',
   'pdotools_fenom_options' => '',
   'pdotools_fenom_cache' => '',
